@@ -1,0 +1,3 @@
+cname=a&age=1&city=a
+cname=abc&age=1&city=a
+cname=test&age=1&city=Delhi
